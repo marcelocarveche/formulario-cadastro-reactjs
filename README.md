@@ -1,10 +1,10 @@
 # Formulário Cadastro
-
+Este projeto trata de um formulário básico de cadastro utilizando function components e tratando algumas validações no lado front-end.
 ## Principais abordagens neste projeto:
 - Function Components
 - Material-UI
 
-## Conceitos presentes neste projeto:
+## Conceitos ReactJS presentes neste projeto:
 - Como criar um Function Component e quais suas as diferenças dele com um Class Component
 - Instalando pacotes via NPM no nosso projeto
 - Vantagens de se usar o MaterialUI
