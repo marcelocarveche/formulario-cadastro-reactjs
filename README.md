@@ -29,3 +29,5 @@ Este projeto trata de um formulário básico de cadastro utilizando function com
 - Usando o estado para controla a exibição de erros
 - Recebendo validação de maneira externa
 - Como deixar os componentes mais reutilizáveis
+
+![alt text](https://imgur.com/xqYKL9E.jpg)
